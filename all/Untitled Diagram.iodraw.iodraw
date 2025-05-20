@@ -38,10 +38,10 @@
           <mxGeometry x="221.6" y="229.45000000000002" width="105.13" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="zAm5akZUw0j62YfEtG1b-12" value="LPT" style="whiteSpace=wrap;html=1;textDirection=vertical;rotation=-90;imageWidth=25;imageHeight=25;" vertex="1" parent="1">
-          <mxGeometry x="256.88" y="227.58" width="101.25" height="17.5" as="geometry" />
+          <mxGeometry x="256.88" y="227.58" width="105.13" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="zAm5akZUw0j62YfEtG1b-13" value="Core Nozzle" style="whiteSpace=wrap;html=1;textDirection=vertical;rotation=-90;imageWidth=25;imageHeight=25;" vertex="1" parent="1">
-          <mxGeometry x="293.17" y="233.12" width="98.58" height="14.77" as="geometry" />
+          <mxGeometry x="293.17" y="233.12" width="105.13" height="14.77" as="geometry" />
         </mxCell>
         <mxCell id="zAm5akZUw0j62YfEtG1b-14" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;entryX=0.5;entryY=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zAm5akZUw0j62YfEtG1b-1" target="zAm5akZUw0j62YfEtG1b-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
