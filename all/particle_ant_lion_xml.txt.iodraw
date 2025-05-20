@@ -41,7 +41,7 @@
           <mxGeometry x="640" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="condition_iteration" value="Iteration t&gt;it?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="500" y="370" width="120" height="120" as="geometry" />
+          <mxGeometry x="500" y="420" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="condition_neff" value="N&lt;sub&gt;eff&lt;/sub&gt; &lt; N&lt;sub&gt;th&lt;/sub&gt; ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="500" y="530" width="120" height="70" as="geometry" />
