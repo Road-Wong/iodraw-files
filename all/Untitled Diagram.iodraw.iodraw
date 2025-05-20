@@ -17,13 +17,13 @@
           <mxGeometry x="96.37" y="179.76" width="105.63" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="zAm5akZUw0j62YfEtG1b-5" value="Bypass Path" style="whiteSpace=wrap;html=1;textDirection=vertical;rotation=-90;imageWidth=25;imageHeight=25;" vertex="1" parent="1">
-          <mxGeometry x="166.25" y="130" width="55" height="30" as="geometry" />
+          <mxGeometry x="171.25" y="135" width="55" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zAm5akZUw0j62YfEtG1b-6" value="Bypass Nozzle" style="whiteSpace=wrap;html=1;textDirection=vertical;rotation=-90;imageWidth=25;imageHeight=25;" vertex="1" parent="1">
           <mxGeometry x="418.75" y="90" width="55" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="zAm5akZUw0j62YfEtG1b-7" value="LPC" style="whiteSpace=wrap;html=1;textDirection=vertical;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="157.5" y="206.25" width="55" height="12.5" as="geometry" />
+          <mxGeometry x="158.13" y="205.63" width="55" height="13.75" as="geometry" />
         </mxCell>
         <mxCell id="zAm5akZUw0j62YfEtG1b-8" value="HPC" style="whiteSpace=wrap;html=1;textDirection=vertical;rotation=-90;imageWidth=25;imageHeight=25;" vertex="1" parent="1">
           <mxGeometry x="189.38" y="204.38" width="55" height="16.25" as="geometry" />
