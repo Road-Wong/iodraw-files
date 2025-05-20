@@ -23,10 +23,10 @@
           <mxGeometry x="40" y="530" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="finding_local" value="Finding Local Optimal Solution by Random Walk" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="360" y="320" width="160" height="60" as="geometry" />
+          <mxGeometry x="290" y="380" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="predation_behavior" value="Predation behavior updates elite ant lions" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="290" y="450" width="160" height="60" as="geometry" />
+          <mxGeometry x="290" y="460" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="recalculate_weights" value="Recalculate particle weights and normalize them" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="290" y="530" width="160" height="70" as="geometry" />
@@ -77,16 +77,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="520" as="sourcePoint" />
             <mxPoint x="180" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="arrow6" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="calculate_fitness" target="finding_local" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="580" as="sourcePoint" />
-            <mxPoint x="340" y="350" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="320" y="580" />
-              <mxPoint x="320" y="350" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="arrow7" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="finding_local" target="predation_behavior" edge="1">
