@@ -20,7 +20,7 @@
           <mxGeometry x="171.88" y="140.63" width="43.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zAm5akZUw0j62YfEtG1b-6" value="Bypass Nozzle" style="whiteSpace=wrap;html=1;textDirection=vertical;rotation=-90;imageWidth=25;imageHeight=25;" vertex="1" parent="1">
-          <mxGeometry x="255.31" y="146.57" width="55" height="28.12" as="geometry" />
+          <mxGeometry x="223.2" y="144.45999999999998" width="47.04" height="35.3" as="geometry" />
         </mxCell>
         <mxCell id="zAm5akZUw0j62YfEtG1b-7" value="LPC" style="whiteSpace=wrap;html=1;textDirection=vertical;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="153.13" y="205.63" width="55" height="13.75" as="geometry" />
