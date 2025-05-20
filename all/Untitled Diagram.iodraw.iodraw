@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zAm5akZUw0j62YfEtG1b-1" value="Ambient" style="whiteSpace=wrap;html=1;textDirection=vertical;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="20" y="178.75" width="55" height="17.5" as="geometry" />
+          <mxGeometry x="20" y="180" width="55" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="zAm5akZUw0j62YfEtG1b-2" value="Inlet" style="whiteSpace=wrap;html=1;textDirection=vertical;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="54.93" y="179.76" width="55" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="zAm5akZUw0j62YfEtG1b-3" value="Fan" style="whiteSpace=wrap;html=1;textDirection=vertical;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="88.75" y="178.13" width="55" height="17.5" as="geometry" />
+          <mxGeometry x="88.75" y="180" width="55" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="zAm5akZUw0j62YfEtG1b-4" value="Splitter" style="whiteSpace=wrap;html=1;textDirection=vertical;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="126.25" y="176.25" width="55" height="17.5" as="geometry" />
+          <mxGeometry x="126.25" y="180" width="55" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="zAm5akZUw0j62YfEtG1b-5" value="Bypass Path" style="whiteSpace=wrap;html=1;textDirection=vertical;rotation=-90;imageWidth=25;imageHeight=25;" vertex="1" parent="1">
           <mxGeometry x="298.75" y="90" width="55" height="17.5" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="418.75" y="90" width="55" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="zAm5akZUw0j62YfEtG1b-7" value="LPC" style="whiteSpace=wrap;html=1;textDirection=vertical;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="238.75" y="180" width="55" height="17.5" as="geometry" />
+          <mxGeometry x="160" y="180" width="55" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="zAm5akZUw0j62YfEtG1b-8" value="HPC" style="whiteSpace=wrap;html=1;textDirection=vertical;rotation=-90;imageWidth=25;imageHeight=25;" vertex="1" parent="1">
           <mxGeometry x="393.75" y="160" width="55" height="17.5" as="geometry" />
