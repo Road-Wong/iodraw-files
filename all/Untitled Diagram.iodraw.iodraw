@@ -14,7 +14,7 @@
           <mxGeometry x="88.75" y="180" width="55" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="zAm5akZUw0j62YfEtG1b-4" value="Splitter" style="whiteSpace=wrap;html=1;textDirection=vertical;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="111.88" y="165.63" width="83.75" height="17.5" as="geometry" />
+          <mxGeometry x="96.37" y="179.76" width="105.63" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="zAm5akZUw0j62YfEtG1b-5" value="Bypass Path" style="whiteSpace=wrap;html=1;textDirection=vertical;rotation=-90;imageWidth=25;imageHeight=25;" vertex="1" parent="1">
           <mxGeometry x="166.25" y="103.75" width="55" height="30" as="geometry" />
