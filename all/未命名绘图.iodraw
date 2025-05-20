@@ -1,0 +1,117 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="ant-lion-algorithm">
+    <mxGraphModel dx="1259" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="start" value="Start" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="319" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="initialize" value="Initialize&lt;br&gt;Population" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="319" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="calculate" value="Calculate the fitness of each member according to formula (13)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="259" y="240" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="random_walk" value="Ant random walk to find&lt;br&gt;Local minimum" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="259" y="350" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ant_lion_preys" value="The ant lion preys on ants&lt;br&gt;and gets a local minimum" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="259" y="460" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="update_position" value="Update the position of the elite ant lion, the global best point" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="259" y="570" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="increment_t" value="t = t+1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="559" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="condition_t" value="t &gt; T ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="559" y="480" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fitness_condition" value="Fitness meets the&lt;br&gt;conditions?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="559" y="680" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="end" value="End" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="819" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arrow1" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="start" target="initialize" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="379" y="100" as="sourcePoint" />
+            <mxPoint x="379" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow2" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="initialize" target="calculate" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="379" y="210" as="sourcePoint" />
+            <mxPoint x="379" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow3" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="calculate" target="random_walk" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="379" y="320" as="sourcePoint" />
+            <mxPoint x="379" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow4" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="random_walk" target="ant_lion_preys" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="379" y="430" as="sourcePoint" />
+            <mxPoint x="379" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow5" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ant_lion_preys" target="update_position" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="379" y="540" as="sourcePoint" />
+            <mxPoint x="379" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow6" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="update_position" target="fitness_condition" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="499" y="600" as="sourcePoint" />
+            <mxPoint x="559" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="519" y="600" />
+              <mxPoint x="519" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow7" value="Y" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fitness_condition" target="end" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="679" y="740" as="sourcePoint" />
+            <mxPoint x="819" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow8" value="n" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="fitness_condition" target="condition_t" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="619" y="660" as="sourcePoint" />
+            <mxPoint x="619" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow9" value="Y" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="condition_t" target="end" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="679" y="540" as="sourcePoint" />
+            <mxPoint x="879" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="879" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow10" value="N" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="condition_t" target="increment_t" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="619" y="460" as="sourcePoint" />
+            <mxPoint x="619" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow11" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="increment_t" target="calculate" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="539" y="320" as="sourcePoint" />
+            <mxPoint x="499" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="539" y="320" />
+              <mxPoint x="539" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
