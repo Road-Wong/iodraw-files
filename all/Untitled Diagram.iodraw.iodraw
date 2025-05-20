@@ -14,10 +14,10 @@
           <mxGeometry x="88.75" y="180" width="55" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="zAm5akZUw0j62YfEtG1b-4" value="Splitter" style="whiteSpace=wrap;html=1;textDirection=vertical;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="96.37" y="179.76" width="105.63" height="17.5" as="geometry" />
+          <mxGeometry x="97.37" y="180.76" width="103.63" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="zAm5akZUw0j62YfEtG1b-5" value="Bypass Path" style="whiteSpace=wrap;html=1;textDirection=vertical;rotation=-90;imageWidth=25;imageHeight=25;" vertex="1" parent="1">
-          <mxGeometry x="166.25" y="135" width="55" height="40" as="geometry" />
+          <mxGeometry x="171.88" y="140.63" width="43.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zAm5akZUw0j62YfEtG1b-6" value="Bypass Nozzle" style="whiteSpace=wrap;html=1;textDirection=vertical;rotation=-90;imageWidth=25;imageHeight=25;" vertex="1" parent="1">
           <mxGeometry x="418.75" y="90" width="55" height="17.5" as="geometry" />
