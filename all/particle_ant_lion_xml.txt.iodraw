@@ -94,16 +94,6 @@
             <mxPoint x="440" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="arrow9" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="recalculate_weights" target="condition_neff" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="550" as="sourcePoint" />
-            <mxPoint x="640" y="620" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="580" y="550" />
-              <mxPoint x="580" y="620" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="arrow10" value="Y" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="condition_neff" target="calculate_membership" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="620" as="sourcePoint" />
