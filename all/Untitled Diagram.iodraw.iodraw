@@ -29,10 +29,10 @@
           <mxGeometry x="178.38" y="204.38" width="55" height="16.25" as="geometry" />
         </mxCell>
         <mxCell id="zAm5akZUw0j62YfEtG1b-9" value="Fuel" style="whiteSpace=wrap;html=1;textDirection=vertical;rotation=-90;imageWidth=25;imageHeight=25;" vertex="1" parent="1">
-          <mxGeometry x="183.38" y="267.5" width="55" height="17.5" as="geometry" />
+          <mxGeometry x="184.19" y="261.69" width="43.38" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="zAm5akZUw0j62YfEtG1b-10" value="Burner" style="whiteSpace=wrap;html=1;textDirection=vertical;rotation=-90;imageWidth=25;imageHeight=25;" vertex="1" parent="1">
-          <mxGeometry x="260" y="205.63" width="55" height="17.5" as="geometry" />
+          <mxGeometry x="208.13" y="204.38" width="55" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="zAm5akZUw0j62YfEtG1b-11" value="HPT" style="whiteSpace=wrap;html=1;textDirection=vertical;rotation=-90;imageWidth=25;imageHeight=25;" vertex="1" parent="1">
           <mxGeometry x="528.75" y="260" width="55" height="17.5" as="geometry" />
