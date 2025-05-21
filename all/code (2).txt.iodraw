@@ -12,18 +12,18 @@
             <mxPoint x="110" y="289" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="130" y="289" />
-              <mxPoint x="130" y="170" />
-              <mxPoint x="170" y="170" />
+              <mxPoint x="130" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="input_arrow_2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" parent="1" source="input_text" edge="1">
+        <mxCell id="input_arrow_2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=0.031;entryY=0.499;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="input_text" edge="1" target="rcdbfe_bottom_cvconv">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="110" y="289" as="sourcePoint" />
             <mxPoint x="170" y="360" as="targetPoint" />
             <Array as="points">
               <mxPoint x="130" y="289" />
               <mxPoint x="130" y="360" />
+              <mxPoint x="171" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
