@@ -85,26 +85,26 @@
             <mxPoint x="300" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dscfdm_box_detailed" value="DSC-FDM" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#A0A0A0;fillColor=none;verticalAlign=top;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="480" y="205" width="410" height="170" as="geometry" />
+        <mxCell id="dscfdm_box_detailed" value="DSC-FDM" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#A0A0A0;fillColor=#FFCCFF;verticalAlign=top;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="360" y="240" width="410" height="170" as="geometry" />
         </mxCell>
         <mxCell id="dscfdm_dwconv" value="" style="shape=cube;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#C5E0B4;strokeColor=#B0A090;size=12;" parent="1" vertex="1">
-          <mxGeometry x="500" y="250" width="24" height="80" as="geometry" />
+          <mxGeometry x="380" y="285" width="24" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dscfdm_pwconv" value="" style="shape=cube;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#F8CBAD;strokeColor=#B0A090;size=12;" parent="1" vertex="1">
-          <mxGeometry x="570" y="250" width="24" height="80" as="geometry" />
+          <mxGeometry x="450" y="285" width="24" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dscfdm_bn" value="" style="shape=cube;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FBE5D6;strokeColor=#B0A090;size=12;" parent="1" vertex="1">
-          <mxGeometry x="640" y="250" width="24" height="80" as="geometry" />
+          <mxGeometry x="520" y="285" width="24" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dscfdm_relu" value="" style="shape=cube;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#E2F0F7;strokeColor=#B0A090;size=12;" parent="1" vertex="1">
-          <mxGeometry x="710" y="250" width="24" height="80" as="geometry" />
+          <mxGeometry x="590" y="285" width="24" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dscfdm_shuffle" value="" style="shape=cube;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#A44A3F;strokeColor=#B0A090;size=12;" parent="1" vertex="1">
-          <mxGeometry x="780" y="250" width="24" height="80" as="geometry" />
+          <mxGeometry x="660" y="285" width="24" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dscfdm_attention" value="" style="shape=cube;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#604A7B;strokeColor=#B0A090;size=12;" parent="1" vertex="1">
-          <mxGeometry x="840" y="250" width="24" height="80" as="geometry" />
+          <mxGeometry x="720" y="285" width="24" height="80" as="geometry" />
         </mxCell>
         <mxCell id="arrow_rcdbfe_top_out" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;" parent="1" source="rcdbfe_top_gmp" target="dscfdm_dwconv" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -136,7 +136,7 @@
         </mxCell>
         <mxCell id="arrow_dscfdm_5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;" parent="1" source="dscfdm_shuffle" target="dscfdm_attention" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="805" y="290" as="sourcePoint" />
+            <mxPoint x="685" y="325" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dscfdm_seq_1" value="DSC-FDM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9D2E9;strokeColor=#B0A090;fontSize=10;align=center;verticalAlign=middle;" parent="1" vertex="1">
