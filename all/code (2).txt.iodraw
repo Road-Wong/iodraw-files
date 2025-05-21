@@ -31,16 +31,16 @@
           <mxGeometry x="150" y="100" width="300" height="390" as="geometry" />
         </mxCell>
         <mxCell id="rcdbfe_top_conv" value="" style="shape=cube;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FDF1D3;strokeColor=#B0A090;size=12;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="170" y="140" width="49" height="80" as="geometry" />
+          <mxGeometry x="170" y="140" width="24" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rcdbfe_top_bn" value="" style="shape=cube;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FBE5D6;strokeColor=#B0A090;size=12;" parent="1" vertex="1">
-          <mxGeometry x="240" y="140" width="49" height="80" as="geometry" />
+          <mxGeometry x="240" y="140" width="24" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rcdbfe_top_relu" value="" style="shape=cube;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#E2F0F7;strokeColor=#B0A090;size=12;" parent="1" vertex="1">
-          <mxGeometry x="310" y="140" width="49" height="80" as="geometry" />
+          <mxGeometry x="310" y="140" width="24" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rcdbfe_top_gmp" value="" style="shape=cube;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#D9D2E9;strokeColor=#B0A090;size=12;" parent="1" vertex="1">
-          <mxGeometry x="380" y="140" width="49" height="80" as="geometry" />
+          <mxGeometry x="380" y="140" width="24" height="80" as="geometry" />
         </mxCell>
         <mxCell id="arrow_rcdbfe_top_1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;" parent="1" source="rcdbfe_top_conv" target="rcdbfe_top_bn" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -52,16 +52,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rcdbfe_bottom_cvconv" value="" style="shape=cube;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FFD966;strokeColor=#B0A090;size=12;" parent="1" vertex="1">
-          <mxGeometry x="170" y="330" width="49" height="80" as="geometry" />
+          <mxGeometry x="170" y="330" width="24" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rcdbfe_bottom_cvbn" value="" style="shape=cube;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#F4B183;strokeColor=#B0A090;size=12;" parent="1" vertex="1">
-          <mxGeometry x="240" y="330" width="49" height="80" as="geometry" />
+          <mxGeometry x="240" y="330" width="24" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rcdbfe_bottom_cvrelu" value="" style="shape=cube;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#A0D4EA;strokeColor=#B0A090;size=12;" parent="1" vertex="1">
-          <mxGeometry x="310" y="330" width="49" height="80" as="geometry" />
+          <mxGeometry x="310" y="330" width="24" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rcdbfe_bottom_cvgmp" value="" style="shape=cube;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#604A7B;strokeColor=#B0A090;size=12;" parent="1" vertex="1">
-          <mxGeometry x="380" y="330" width="49" height="80" as="geometry" />
+          <mxGeometry x="380" y="330" width="24" height="80" as="geometry" />
         </mxCell>
         <mxCell id="arrow_rcdbfe_bottom_1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;" parent="1" source="rcdbfe_bottom_cvconv" target="rcdbfe_bottom_cvbn" edge="1">
           <mxGeometry relative="1" as="geometry" />
