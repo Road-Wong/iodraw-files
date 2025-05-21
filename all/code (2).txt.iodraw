@@ -10,13 +10,12 @@
         <mxCell id="input_text" value="I/Q Input" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="60" y="310" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="input_arrow" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=0;entryY=0;entryDx=0;entryDy=34;entryPerimeter=0;" parent="1" source="input_text" target="rcdbfe_top_conv" edge="1">
+        <mxCell id="input_arrow" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=0.002;entryY=0.502;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="input_text" target="rcdbfe_top_conv" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="110" y="289" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="140" y="325" />
               <mxPoint x="140" y="270" />
-              <mxPoint x="170" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -43,8 +42,10 @@
         <mxCell id="rcdbfe_top_gmp" value="" style="shape=cube;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#D9D2E9;strokeColor=#B0A090;size=12;" parent="1" vertex="1">
           <mxGeometry x="299" y="230" width="24" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="arrow_rcdbfe_top_1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;" parent="1" source="rcdbfe_top_conv" target="rcdbfe_top_bn" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="arrow_rcdbfe_top_1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;" parent="1" source="rcdbfe_top_conv" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="214" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="arrow_rcdbfe_top_2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;" parent="1" source="rcdbfe_top_bn" target="rcdbfe_top_relu" edge="1">
           <mxGeometry relative="1" as="geometry" />
