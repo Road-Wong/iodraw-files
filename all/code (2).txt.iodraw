@@ -184,8 +184,7 @@
         <mxCell id="arrow_seq5_gap3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dscfdm_seq_4" target="clff_gap_3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1270" y="350" />
-              <mxPoint x="1270" y="400" />
+              <mxPoint x="920" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -413,6 +412,9 @@
             <mxPoint x="237" y="270" as="sourcePoint" />
             <mxPoint x="255.51999999999998" y="269.43999999999994" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9oa8bExfH2BBOpKmjy3_-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=34;entryPerimeter=0;" edge="1" parent="1" source="dscfdm_seq_3" target="clff_gap_1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
