@@ -109,17 +109,16 @@
         <mxCell id="arrow_rcdbfe_top_out" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;" parent="1" source="rcdbfe_top_gmp" target="dscfdm_dwconv" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="440" y="270" />
-              <mxPoint x="440" y="290" />
+              <mxPoint x="340" y="270" />
+              <mxPoint x="340" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="arrow_rcdbfe_bottom_out" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;" parent="1" source="rcdbfe_bottom_cvgmp" target="dscfdm_dwconv" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="440" y="370" />
-              <mxPoint x="440" y="290" />
-              <mxPoint x="500" y="290" />
+              <mxPoint x="340" y="370" />
+              <mxPoint x="340" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
