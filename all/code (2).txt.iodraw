@@ -72,9 +72,6 @@
         <mxCell id="arrow_rcdbfe_bottom_3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;" parent="1" source="rcdbfe_bottom_cvrelu" target="rcdbfe_bottom_cvgmp" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="input_arrow_2_target_corrected" style="edge;" parent="1" source="input_arrow_2" target="rcdbfe_bottom_cvconv" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="dscfdm_box_detailed" value="DSC-FDM" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#A0A0A0;fillColor=none;verticalAlign=top;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="480" y="205" width="410" height="170" as="geometry" />
         </mxCell>
