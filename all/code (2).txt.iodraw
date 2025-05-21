@@ -181,12 +181,11 @@
         <mxCell id="clff_gap_3" value="" style="shape=cube;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#A9D18E;strokeColor=#B0A090;size=12;" parent="1" vertex="1">
           <mxGeometry x="1355" y="360" width="50" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="arrow_seq5_gap3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;" parent="1" source="dscfdm_seq_5" target="clff_gap_3" edge="1">
+        <mxCell id="arrow_seq5_gap3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="dscfdm_seq_4" target="clff_gap_3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="1270" y="350" />
               <mxPoint x="1270" y="400" />
-              <mxPoint x="1300" y="400" />
-              <mxPoint x="1300" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
