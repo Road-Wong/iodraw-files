@@ -78,6 +78,12 @@
         <mxCell id="arrow_rcdbfe_bottom_2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;" parent="1" source="rcdbfe_bottom_cvbn" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="257" y="370" />
+              <mxPoint x="257" y="360" />
+              <mxPoint x="240" y="360" />
+              <mxPoint x="240" y="370" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="arrow_rcdbfe_bottom_3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;" parent="1" source="rcdbfe_bottom_cvrelu" target="rcdbfe_bottom_cvgmp" edge="1">
