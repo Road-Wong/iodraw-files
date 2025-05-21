@@ -323,82 +323,82 @@
           <mxGeometry x="1061" y="446" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="legend_conv_rect" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDF1D3;strokeColor=#000000;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="80" y="441" width="30" height="20" as="geometry" />
+          <mxGeometry x="82" y="439" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="legend_conv_text" value="Conv" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="120" y="441" width="60" height="20" as="geometry" />
+          <mxGeometry x="122" y="439" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="legend_bn_rect" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FBE5D6;strokeColor=#000000;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="190" y="441" width="30" height="20" as="geometry" />
+          <mxGeometry x="192" y="439" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="legend_bn_text" value="BN" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="230" y="441" width="60" height="20" as="geometry" />
+          <mxGeometry x="232" y="439" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="legend_relu_rect" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2F0F7;strokeColor=#000000;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="300" y="441" width="30" height="20" as="geometry" />
+          <mxGeometry x="302" y="439" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="legend_relu_text" value="ReLU" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="340" y="441" width="60" height="20" as="geometry" />
+          <mxGeometry x="342" y="439" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="legend_gmp_rect" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9D2E9;strokeColor=#000000;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="410" y="441" width="30" height="20" as="geometry" />
+          <mxGeometry x="412" y="439" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="legend_gmp_text" value="GMP" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="450" y="441" width="60" height="20" as="geometry" />
+          <mxGeometry x="452" y="439" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="legend_cvconv_rect" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=#000000;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="520" y="441" width="30" height="20" as="geometry" />
+          <mxGeometry x="522" y="439" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="legend_cvconv_text" value="CV Conv" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="560" y="441" width="70" height="20" as="geometry" />
+          <mxGeometry x="562" y="439" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="legend_cvbn_rect" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F4B183;strokeColor=#000000;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="640" y="441" width="30" height="20" as="geometry" />
+          <mxGeometry x="642" y="439" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="legend_cvbn_text" value="CV BN" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="680" y="441" width="60" height="20" as="geometry" />
+          <mxGeometry x="682" y="439" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="legend_cvrelu_rect" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A0D4EA;strokeColor=#000000;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="750" y="441" width="30" height="20" as="geometry" />
+          <mxGeometry x="752" y="439" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="legend_cvrelu_text" value="CV ReLU" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="790" y="441" width="70" height="20" as="geometry" />
+          <mxGeometry x="792" y="439" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="legend_cvgmp_rect" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A99ACC;strokeColor=#000000;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="80" y="471" width="30" height="20" as="geometry" />
+          <mxGeometry x="82" y="469" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="legend_cvgmp_text" value="CV GMP" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="120" y="471" width="70" height="20" as="geometry" />
+          <mxGeometry x="122" y="469" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="legend_dwconv_rect" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C5E0B4;strokeColor=#000000;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="190" y="471" width="30" height="20" as="geometry" />
+          <mxGeometry x="192" y="469" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="legend_dwconv_text" value="DW Conv" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="230" y="471" width="70" height="20" as="geometry" />
+          <mxGeometry x="232" y="469" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="legend_pwconv_rect" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CBAD;strokeColor=#000000;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="300" y="471" width="30" height="20" as="geometry" />
+          <mxGeometry x="302" y="469" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="legend_pwconv_text" value="PW Conv" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="340" y="471" width="70" height="20" as="geometry" />
+          <mxGeometry x="342" y="469" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="legend_shuffle_rect" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A44A3F;strokeColor=#000000;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="410" y="471" width="30" height="20" as="geometry" />
+          <mxGeometry x="412" y="469" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="legend_shuffle_text" value="Channel Shuffle" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="450" y="471" width="100" height="20" as="geometry" />
+          <mxGeometry x="452" y="469" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="legend_attention_rect" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#604A7B;strokeColor=#000000;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="560" y="471" width="30" height="20" as="geometry" />
+          <mxGeometry x="562" y="469" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="legend_attention_text" value="Time-Channel Attention" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="600" y="471" width="150" height="20" as="geometry" />
+          <mxGeometry x="602" y="469" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="legend_gap_rect" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A9D18E;strokeColor=#000000;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="751" y="471" width="30" height="20" as="geometry" />
+          <mxGeometry x="753" y="469" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="legend_gap_text" value="GAP" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="791" y="471" width="60" height="20" as="geometry" />
+          <mxGeometry x="793" y="469" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9oa8bExfH2BBOpKmjy3_-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=24;exitDy=46;exitPerimeter=0;entryX=-0.02;entryY=0.568;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
