@@ -402,10 +402,10 @@
           <mxGeometry x="580" y="550" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="legend_gap_rect" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A9D18E;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="740" y="550" width="30" height="20" as="geometry" />
+          <mxGeometry x="731" y="550" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="legend_gap_text" value="GAP" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="780" y="550" width="60" height="20" as="geometry" />
+          <mxGeometry x="771" y="550" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9oa8bExfH2BBOpKmjy3_-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=24;exitDy=46;exitPerimeter=0;entryX=-0.02;entryY=0.568;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
