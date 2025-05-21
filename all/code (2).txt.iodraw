@@ -86,7 +86,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dscfdm_box_detailed" value="DSC-FDM" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#A0A0A0;fillColor=#E1D5E7;verticalAlign=top;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="360" y="260" width="410" height="120" as="geometry" />
+          <mxGeometry x="360" y="260" width="270" height="120" as="geometry" />
         </mxCell>
         <mxCell id="dscfdm_dwconv" value="" style="shape=cube;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#C5E0B4;strokeColor=#B0A090;size=12;" parent="1" vertex="1">
           <mxGeometry x="380" y="285" width="24" height="80" as="geometry" />
@@ -104,7 +104,7 @@
           <mxGeometry x="553" y="285" width="24" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dscfdm_attention" value="" style="shape=cube;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#604A7B;strokeColor=#B0A090;size=12;" parent="1" vertex="1">
-          <mxGeometry x="613" y="285" width="24" height="80" as="geometry" />
+          <mxGeometry x="595" y="285" width="24" height="80" as="geometry" />
         </mxCell>
         <mxCell id="arrow_rcdbfe_top_out" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;" parent="1" source="rcdbfe_top_gmp" target="dscfdm_dwconv" edge="1">
           <mxGeometry relative="1" as="geometry">
