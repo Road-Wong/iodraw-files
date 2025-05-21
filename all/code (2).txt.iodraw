@@ -75,7 +75,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="arrow_rcdbfe_bottom_2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;" parent="1" source="rcdbfe_bottom_cvbn" target="rcdbfe_box" edge="1">
+        <mxCell id="arrow_rcdbfe_bottom_2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;entryX=0.001;entryY=0.505;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="rcdbfe_bottom_cvbn" target="rcdbfe_bottom_cvrelu" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="370" as="targetPoint" />
             <Array as="points" />
