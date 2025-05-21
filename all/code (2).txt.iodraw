@@ -200,7 +200,7 @@
         <mxCell id="arrow_gap3_sum" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;" parent="1" source="clff_gap_3" target="sum_circle" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dense_box_1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#A0A0A0;fillColor=none;verticalAlign=top;fontSize=12;dashPattern=8 8;" parent="1" vertex="1">
+        <mxCell id="dense_box_1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#A0A0A0;fillColor=#E6E6E6;verticalAlign=top;fontSize=12;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="1220" y="161" width="40" height="340" as="geometry" />
         </mxCell>
         <mxCell id="dense_box_2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#A0A0A0;fillColor=none;verticalAlign=top;fontSize=12;dashPattern=8 8;" parent="1" vertex="1">
