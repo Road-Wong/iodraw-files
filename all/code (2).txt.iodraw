@@ -28,7 +28,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rcdbfe_box" value="R-CDBFE" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#A0A0A0;fillColor=none;verticalAlign=top;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="150" y="100" width="300" height="390" as="geometry" />
+          <mxGeometry x="150" y="100" width="180" height="390" as="geometry" />
         </mxCell>
         <mxCell id="rcdbfe_top_conv" value="" style="shape=cube;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FDF1D3;strokeColor=#B0A090;size=12;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="170" y="140" width="24" height="80" as="geometry" />
