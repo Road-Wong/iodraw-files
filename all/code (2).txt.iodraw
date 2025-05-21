@@ -47,9 +47,6 @@
             <mxPoint x="214" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="arrow_rcdbfe_top_2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;" parent="1" source="rcdbfe_top_bn" target="rcdbfe_top_relu" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="arrow_rcdbfe_top_3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;" parent="1" source="rcdbfe_top_relu" target="rcdbfe_top_gmp" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
