@@ -181,14 +181,6 @@
         <mxCell id="clff_gap_3" value="" style="shape=cube;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#A9D18E;strokeColor=#B0A090;size=12;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="890" y="401" width="25" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="arrow_seq5_gap3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;strokeWidth=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;entryX=0;entryY=0;entryDx=0;entryDy=34;entryPerimeter=0;" parent="1" source="dscfdm_seq_4" target="clff_gap_3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="798" y="400" />
-              <mxPoint x="798" y="435" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="sum_circle" value="+" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fontStyle=1;fillColor=#FFFFFF;strokeColor=#000000;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="934" y="316" width="30" height="30" as="geometry" />
         </mxCell>
