@@ -8,7 +8,7 @@
           <mxGeometry x="150" y="210" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="input_text" value="I/Q Input" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="60" y="310" width="60" height="30" as="geometry" />
+          <mxGeometry x="80" y="310" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="input_arrow" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=0.002;entryY=0.502;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Times New Roman;" parent="1" source="input_text" target="rcdbfe_top_conv" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -170,7 +170,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="clff_box" value="CLFF" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#A0A0A0;fillColor=#D4E1F5;verticalAlign=top;fontSize=12;dashPattern=8 8;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="870" y="141" width="100" height="390" as="geometry" />
+          <mxGeometry x="870" y="160" width="100" height="340" as="geometry" />
         </mxCell>
         <mxCell id="clff_gap_1" value="" style="shape=cube;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#A9D18E;strokeColor=#B0A090;size=12;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="890" y="181" width="25" height="80" as="geometry" />
