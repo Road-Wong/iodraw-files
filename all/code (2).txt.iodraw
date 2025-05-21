@@ -140,7 +140,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dscfdm_seq_1" value="DSC-FDM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9D2E9;strokeColor=#B0A090;fontSize=10;align=center;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="920" y="265" width="60" height="50" as="geometry" />
+          <mxGeometry x="650" y="300" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dscfdm_seq_2" value="DSC-FDM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D9D2E9;strokeColor=#B0A090;fontSize=10;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1000" y="265" width="60" height="50" as="geometry" />
